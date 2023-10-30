@@ -118,7 +118,7 @@ This project is under the MIT License.
 Raghavendran S,
 Aspiring Data Scientist
 [LinkedIN Profile](https://www.linkedin.com/in/raghavendransundararajan/)
-[email](raghavendranhp@gmail.com)
+raghavendranhp@gmail.com
 
 Thank You !
 Happy Enjoying !
