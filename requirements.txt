@@ -1,0 +1,9 @@
+pandas
+numpy
+pymongo
+sqlalchemy
+python scripting/Notebook
+Mysql.Connector
+Matplotlib
+Streamlit
+sqlalchemy.exc
