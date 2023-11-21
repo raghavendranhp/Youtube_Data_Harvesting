@@ -115,10 +115,10 @@ I welcome contributions! If you have suggestions, improvements, or new features 
 This project is under the MIT License.
 
 ## Author
-Raghavendran S,
-Aspiring Data Scientist
-[LinkedIN Profile](https://www.linkedin.com/in/raghavendransundararajan/)
-raghavendranhp@gmail.com
+Raghavendran S,  
+Aspiring Data Scientist  
+[LinkedIN Profile](https://www.linkedin.com/in/raghavendransundararajan/)  
+raghavendranhp@gmail.com  
 
-Thank You !
+Thank You !  
 Happy Enjoying !
